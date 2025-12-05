@@ -1,6 +1,6 @@
 # Hyperledger AnonCreds
 
-![AnonCreds Logo](https://raw.githubusercontent.com/hyperledger/anoncreds-spec/main/spec/images/logo/hl_anoncreds_colour.svg)
+![AnonCreds Logo](https://raw.githubusercontent.com/anoncreds/anoncreds-spec/main/spec/images/logo/hl_anoncreds_colour.svg)
 
 Hyperledger AnonCreds is an opinionated implementation of verifiable credentials
 using Zero Knowledge Proofs (ZKPs) to maximize privacy and unlinkability in the
