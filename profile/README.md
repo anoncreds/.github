@@ -9,9 +9,9 @@ flexible enough to support different underlying signature schemes.
 
 The open source AnonCreds v1 implementations
 ([here](https://github.com/hyperledger/indy-sdk/blob/master/libindy/src/api/anoncreds.rs)
-in [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) and
-[here](https://github.com/hyperledger/anoncreds-rs)) in [Hyperledger
-AnonCreds](https://wiki.hyperledger.org/display/anoncreds) provide capabilities
+in [Hyperledger Indy](https://www.lfdecentralizedtrust.org/projects/hyperledger-indy) and
+[here](https://github.com/anoncreds/anoncreds-rs) in [Hyperledger
+AnonCreds](https://www.lfdecentralizedtrust.org/projects/anoncreds)) provide capabilities
 that many see as important for digital identity use cases in particular, and
 verifiable data in general. These features include:
 
